@@ -64,3 +64,6 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
+
+// adicionando uma observação para fazer um novo commit
+// adicionando uma segunda observação para fazer um novo commit
